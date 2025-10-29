@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sugar:
+  - apiVersion: v2
+    appVersion: sweets
+    created: "2025-10-29T07:57:14.267240883Z"
+    description: A Helm chart for Kubernetes
+    digest: dc34a1a89f53ccb5bd0a502268b56991372f94dc4e875d50dacb8561239efa3f
+    name: sugar
+    type: application
+    urls:
+    - myhelm/sugar-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-29T07:57:14.266789973Z"
